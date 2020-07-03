@@ -1,4 +1,4 @@
-## # A simple Python Project
+## # A simple Python Project (Users loggedin/loggedout reports generating)
 
 The problem is to get a report on everyday activities of the users. Finding which user login to which machine & when logged in when logged out. Writting the script on `Python` for this problem to get a report on everyday users.
 
