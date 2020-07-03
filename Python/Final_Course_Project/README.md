@@ -8,4 +8,4 @@ There is three file named `project_twitter_data.csv`, `positive_words.txt` and `
 
 At last, these resulted data in `file/resulted_file.csv` have to open to google sheet or excel and make scatter chart as 'Number of Retweets Vs Net Score'.
 
-![Number of Retweets Vs. Net Score](./graph/Number of Retweets vs. Net Score .png "Number of Retweets Vs. Net Score")
+![Number of Retweets Vs. Net Score](./graph/NumberOfTweetsVsNetScore.png)
